@@ -8,6 +8,6 @@ function max (number1, number2) {
 
 let square = false;
 
-let number = max (, );
+let number = max (7, 7);
 if (square == true) console.log("The numbers are the same.");
 else console.log("The larger number is", number);
