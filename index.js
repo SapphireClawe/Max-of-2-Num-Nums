@@ -10,4 +10,4 @@ let square = false;
 
 let number = max (, );
 if (square == true) console.log("The numbers are the same.");
-elseconsole.log("The larger number is", number);
+else console.log("The larger number is", number);
